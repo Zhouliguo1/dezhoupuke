@@ -17,7 +17,7 @@ public class Test {
 		t.wnayouxi();
 		
 	}
-	
+	system.out.print("hello");
 	public String wan() {
 		   String  str1="";
 		   String pl;
