@@ -9,13 +9,13 @@ import java.util.Scanner;
  * @作者 zhouliguo
  * @版本 V1.0
  * @日期 2019年7月7日-上午11:20:12
- * @描述
+ * @描述 wo d 
  *
  */
 //初始化一副扑克牌
 public class Pukerpai {
 	String[] sign = { "方片", "红桃", "黑桃", "梅花" };
-
+    int a=0;
 	public ArrayList<String> Init() {
 		ArrayList<String> list = new ArrayList<String>();
 		for (String str : sign) {
